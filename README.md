@@ -14,4 +14,4 @@ Once we feed these training and validation sets into the system, subsequent data
 
 | Sr. No | Project Name	| Type | Link |
 | ------------- | ------------- | ------------- | ------------- |
-| 1. | Air Quality | Regression |  |
+| 1. | Air Quality | Regression | [Link](https://github.com/ShivankUdayawal/Machine-Learning-Projectcs/tree/main/Air%20Quality) |
