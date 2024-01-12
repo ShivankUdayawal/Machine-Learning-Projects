@@ -6,4 +6,4 @@
 
 | Sr. No | Project Name	| Type | Link |
 | ------------- | ------------- | ------------- | ------------- |
-
+| 1. | Air Quality | Regression |  |
