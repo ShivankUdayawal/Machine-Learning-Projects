@@ -1,5 +1,8 @@
 # Air Quality 
 
+![](https://github.com/ShivankUdayawal/Machine-Learning-Projectcs/blob/main/Air%20Quality/image.jpg)
+
+### Introduction
 Recent economic and social developments have had aneffect on various environmental variables, including the land,water resources, and air. Because of this, wireless sensornetwork-based air quality monitoring is a popular researchtopic. According to WHO, seven million deathswere related to air pollution each year. Based on the computation of pollutants that are harmfulto human health, the air pollution level index can be created. The Air Quality Index (AQI) is the name of this index, which ranges from 0 to 500. A high AQI is not good for prople. There are distinct ways to calculate the AQI, such asusing the formula or using machine learning techniques. In 2018, study led by Samir Lemes and colleagues demonstratedthe disparity between several approaches to estimate the AQI by calculating and ranking AQI values according to certaincriteria. They then used these parameters to calculate thelevels of air pollution in two different parts of Bosnia andHerzegovina. The ﬁnal result of their work illustrates thecomparison of AQI values on the same dataset, which wasobtained by using different methods of US AQI, EU AQI, andSAQI 11 standards.
 
 ### Data
