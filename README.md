@@ -4,6 +4,6 @@
 
 ### All the Machine Learning Projects.
 
-| Sr. No | Project Name	| Dataset | Link |
+| Sr. No | Project Name	| Type | Link |
 | ------------- | ------------- | ------------- | ------------- |
 
