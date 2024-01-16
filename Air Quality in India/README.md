@@ -16,3 +16,39 @@ This reanalyzed dataset offers valuable insights for evaluating Indian air quali
 
 ### Content:
 The dataset contains air quality data and AQI (Air Quality Index) at hourly and daily level of various stations across multiple cities in India.
+
+### Dataset:
+The data has been made publicly available by the Central Pollution Control Board: Link which is the official portal of Government of India.
+
+The dataset is a collection of pollutant readings across cities in India recorded between 2015 and 2020. The data consists of 26 cities in India, and is split into the following categories: -
+
+ Date - daily readings between 2015 and 2020
+
+ PM2.5 - Particulate Matter 2.5-micrometer in ug / m3
+
+ PM10 - Particulate Matter 10-micrometer in ug / m3
+
+ NO - Nitric Oxide in ug / m3
+
+ NO2 - Nitric Dioxide in ug / m3
+
+ NOx - Any Nitric x-oxide in ppb
+
+ NH3 - Ammonia in ug / m3
+
+ CO - Carbon Monoxide in mg / m3
+
+ SO2 - Sulphur Dioxide in ug / m3
+
+ O3 - Ozone in ug / m3
+
+ Benzene - Benzene in ug / m3
+
+ Toluene - Toluene in ug / m3
+
+ Xylene - Xylene in ug / m3
+
+ AQI - Air Quality Index
+
+ AQI Bucket - Air Quality Index Bucket (ranging from 'Good' to 'Hazardous')
+
