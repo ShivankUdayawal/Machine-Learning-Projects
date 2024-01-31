@@ -18,4 +18,3 @@ Once we feed these training and validation sets into the system, subsequent data
 | 2. | Monthly International Airline Passengers | Forecasting | [Link](https://github.com/ShivankUdayawal/Machine-Learning-Projectcs/tree/main/Air%20Passenger) | 
 | 3. | Air Quality in India | EDA | [Link](https://github.com/ShivankUdayawal/Machine-Learning-Projectcs/tree/main/Air%20Quality%20in%20India) | 
 | 4. |
-
