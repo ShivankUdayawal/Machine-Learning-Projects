@@ -17,5 +17,4 @@ Once we feed these training and validation sets into the system, subsequent data
 | 1. | Air Quality | Regression | [Link](https://github.com/ShivankUdayawal/Machine-Learning-Projectcs/tree/main/Air%20Quality) |
 | 2. | Monthly International Airline Passengers | Forecasting | [Link](https://github.com/ShivankUdayawal/Machine-Learning-Projectcs/tree/main/Air%20Passenger) | 
 | 3. | Air Quality in India | EDA | [Link](https://github.com/ShivankUdayawal/Machine-Learning-Projectcs/tree/main/Air%20Quality%20in%20India) | 
-| 4. |
-
+| 4. | Bike Sharing Demand Analysis | Linear Analysis | [Link](https://github.com/ShivankUdayawal/Machine-Learning-Projects/tree/main/Bike%20Sharing%20Demand) |
